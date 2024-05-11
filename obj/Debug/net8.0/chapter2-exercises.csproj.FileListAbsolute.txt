@@ -1,0 +1,14 @@
+/Users/matthewcreek/Desktop/LaunchCode/csharp/chapters/chapter2/exercises/chapter2-exercises/bin/Debug/net8.0/chapter2-exercises
+/Users/matthewcreek/Desktop/LaunchCode/csharp/chapters/chapter2/exercises/chapter2-exercises/bin/Debug/net8.0/chapter2-exercises.deps.json
+/Users/matthewcreek/Desktop/LaunchCode/csharp/chapters/chapter2/exercises/chapter2-exercises/bin/Debug/net8.0/chapter2-exercises.runtimeconfig.json
+/Users/matthewcreek/Desktop/LaunchCode/csharp/chapters/chapter2/exercises/chapter2-exercises/bin/Debug/net8.0/chapter2-exercises.dll
+/Users/matthewcreek/Desktop/LaunchCode/csharp/chapters/chapter2/exercises/chapter2-exercises/bin/Debug/net8.0/chapter2-exercises.pdb
+/Users/matthewcreek/Desktop/LaunchCode/csharp/chapters/chapter2/exercises/chapter2-exercises/obj/Debug/net8.0/chapter2-exercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matthewcreek/Desktop/LaunchCode/csharp/chapters/chapter2/exercises/chapter2-exercises/obj/Debug/net8.0/chapter2-exercises.AssemblyInfoInputs.cache
+/Users/matthewcreek/Desktop/LaunchCode/csharp/chapters/chapter2/exercises/chapter2-exercises/obj/Debug/net8.0/chapter2-exercises.AssemblyInfo.cs
+/Users/matthewcreek/Desktop/LaunchCode/csharp/chapters/chapter2/exercises/chapter2-exercises/obj/Debug/net8.0/chapter2-exercises.csproj.CoreCompileInputs.cache
+/Users/matthewcreek/Desktop/LaunchCode/csharp/chapters/chapter2/exercises/chapter2-exercises/obj/Debug/net8.0/chapter2-exercises.dll
+/Users/matthewcreek/Desktop/LaunchCode/csharp/chapters/chapter2/exercises/chapter2-exercises/obj/Debug/net8.0/refint/chapter2-exercises.dll
+/Users/matthewcreek/Desktop/LaunchCode/csharp/chapters/chapter2/exercises/chapter2-exercises/obj/Debug/net8.0/chapter2-exercises.pdb
+/Users/matthewcreek/Desktop/LaunchCode/csharp/chapters/chapter2/exercises/chapter2-exercises/obj/Debug/net8.0/chapter2-exercises.genruntimeconfig.cache
+/Users/matthewcreek/Desktop/LaunchCode/csharp/chapters/chapter2/exercises/chapter2-exercises/obj/Debug/net8.0/ref/chapter2-exercises.dll
